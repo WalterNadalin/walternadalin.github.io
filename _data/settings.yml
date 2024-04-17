@@ -101,7 +101,7 @@ experience-title: Experience
 experience:
   - {
       name: Quantum algorithm R&D,
-      icon: "logo-welinq.png",
+      icon: "logo-welinq-2.png",
       date: "May 2024 - July 2024",
       organization: "Welinq",
     }
