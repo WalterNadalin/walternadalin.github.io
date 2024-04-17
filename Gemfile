@@ -1,6 +1,13 @@
-source 'https://rubygems.org'
-gem 'bundler'
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+gemspec
+
 gem 'jekyll'
-gem 'jekyll-sitemap'
+
 gem 'wdm', '>= 0.1.0'
-gem "webrick", "~> 1.7"
+
+gem 'jekyll-paginate'
+gem 'jekyll-feed'
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
