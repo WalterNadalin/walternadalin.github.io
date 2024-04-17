@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Walter <br> Student
+  hero-title: Hi! I’m <br> Walter, <br> Student
 
 social:
   # - { icon: "ti-facebook", link: "#" }
@@ -89,10 +89,10 @@ blurb-btn-name: know more
 
 skills-title: Skills
 skills:
-  - { name: C++, color: "#fdb157", value: "75%" }
-  - { name: Python, color: "#9473e6", value: "75%" }
-  - { name: Linux, color: "#bdecf6", value: "50%" }
-  - { name: Rust, color: "#ffbcaa", value: "25%" }
+  - { name: C++, color: "#fdb157", value: "80%" }
+  - { name: Python, color: "#9473e6", value: "90%" }
+  - { name: Linux, color: "#bdecf6", value: "60%" }
+  - { name: Rust, color: "#ffbcaa", value: "30%" }
 
 #-------------------------------
 # Exprerience Section
