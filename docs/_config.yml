@@ -25,9 +25,9 @@ title: Walter Nadalin
 email: walternadalin4@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 Inde genus durum sumus experiensque laborum. et documenta damus qua simus origine nati.
-domain: walternadalin.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://walternadalin.github.io # the base hostname & protocol for your site, e.g. http://example.com
+domain: walternadalin.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 #twitter_username: jekyllrb
 github_username: WalterNadalin
 
