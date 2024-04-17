@@ -15,7 +15,7 @@ menu:
   - { name: About, link: "/about" }
   #- { name: Blog, link: "/blog" }
   #- { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  #- { name: Contact, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Walter, <br> Student
+  hero-title: Hi! I’m <br> Walter <br> Student
 
 social:
   # - { icon: "ti-facebook", link: "#" }
@@ -49,12 +49,13 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Inde genus durum sumus experiensque laborum. et documenta damus qua simus origine nati.
+blurb: Work in process!
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
 
 # About Page
+
 
 # Work Process Section
 #work-process:
@@ -189,60 +190,60 @@ education:
     #url: "#"
 
 # Portfolio Page
-portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+#portfolio-label:
+#  - { title: "UI/UX Design", type: "design" }
+#  - { title: "BRANDING", type: "branding" }
+#  - { title: "ILLUSTRATION", type: "illustration" }
 
-portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
+    #portfolio-items:
+  #- image: "assets/images/portfolio/item-1.png"
+  #  url: "#"
+  #portfolio-type:
+  #    - type: "design"
+  #    - type: "illustration"
 
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+    #- image: "assets/images/portfolio/item-2.png"
+    #url: "#"
+    #portfolio-type:
+    #  - type: "branding"
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+    #- image: "assets/images/portfolio/item-3.png"
+    #url: "#"
+    #portfolio-type:
+    #  - type: "illustration"
 
-  - image: "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
+    #- image: "assets/images/portfolio/item-6.png"
+    #url: "#"
+    #portfolio-type:
+    #  - type: "design"
+    #  - type: "branding"
 
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+    #- image: "assets/images/portfolio/item-9.png"
+    #url: "#"
+    #portfolio-type:
+    #  - type: "illustration"
 
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
+    #- image: "assets/images/portfolio/item-6.png"
+    #url: "#"
+    #portfolio-type:
+    #  - type: "design"
 
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+    #- image: "assets/images/portfolio/item-2.png"
+    #url: "#"
+    #portfolio-type:
+    #  - type: "branding"
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+    #- image: "assets/images/portfolio/item-4.png"
+    #url: "#"
+    #portfolio-type:
+    #  - type: "design"
+    #  - type: "illustration"
+    #  - type: "branding"
 
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+    #- image: "assets/images/portfolio/item-8.png"
+    #url: "#"
+    #portfolio-type:
+    #  - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
