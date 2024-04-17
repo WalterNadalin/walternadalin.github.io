@@ -87,8 +87,8 @@ blurb-btn-name: know more
 #-------------------------------
 # Skills Section
 
-#skills-title: Skills
-#skills:
+skills-title: Skills
+skills:
   - { name: C++, color: "#fdb157", value: "75%" }
   - { name: Python, color: "#9473e6", value: "75%" }
   - { name: Linux, color: "#bdecf6", value: "50%" }
