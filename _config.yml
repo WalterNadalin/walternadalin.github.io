@@ -2,7 +2,7 @@
 title: Walter Nadalin
 description: Resumé
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://walternadalin.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://walternadalin.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Walter Nadalin
